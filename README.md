@@ -37,6 +37,7 @@ gcc main.c -o supertrunfo
 2️⃣ Executar
 
 Ainda no terminal, execute:
+
 ./supertrunfo
 
 🛠 Tecnologias Utilizadas
