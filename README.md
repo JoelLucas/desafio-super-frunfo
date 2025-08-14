@@ -40,17 +40,24 @@ Ainda no terminal, execute:
 
 ./supertrunfo
 
+---
+
 🛠 Tecnologias Utilizadas
 
 Linguagem C (padrão C99)
 
 Compilador GCC
 
+--- 
+
 ✍️ Autor
 
 Projeto desenvolvido por Joel Lucas Pereira de Figueiredo
 Disciplina: Desafio Cartas Super Trunfo – Estácio
 
+---
+
 📜 Licença
 
 Este projeto é de uso educacional e pode ser adaptado livremente para fins acadêmicos.
+---
